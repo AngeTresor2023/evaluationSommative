@@ -1,0 +1,13 @@
+Git :
+
+Git est un système de contrôle de version décentralisé. C'est un logiciel open-source qui permet de suivre les modifications apportées à un ensemble de fichiers au fil du temps. Il permet aux développeurs de collaborer efficacement sur des projets en gardant une trace des modifications, en permettant le retour à des versions antérieures du code et en fusionnant les modifications apportées par différentes personnes.
+
+Git fonctionne en enregistrant les modifications sous forme de "commit" dans un référentiel local. Il permet aux utilisateurs de travailler sur des branches différentes, d'expérimenter des changements sans affecter la version principale du code, puis de fusionner ces changements une fois qu'ils sont prêts.
+
+GitHub :
+
+GitHub, quant à lui, est une plateforme web basée sur Git. Elle offre un service d'hébergement pour les projets utilisant Git comme système de contrôle de version. Les développeurs peuvent héberger leurs dépôts Git sur GitHub et collaborer avec d'autres développeurs en partageant leurs codes, en effectuant des révisions, en gérant les problèmes, en suggérant des modifications (via des pull requests), et bien plus encore.
+
+GitHub ajoute une couche sociale autour de Git, offrant des fonctionnalités de collaboration et de gestion de projet. De nombreuses communautés et projets open-source utilisent GitHub pour travailler ensemble, gérer leurs versions, et rendre leurs projets accessibles à un large public.
+
+En résumé, Git est le système de contrôle de version, tandis que GitHub est une plateforme d'hébergement et de collaboration pour les projets qui utilisent Git. Cependant, il existe d'autres plateformes similaires à GitHub, telles que GitLab et Bitbucket, qui proposent également des services d'hébergement pour les dépôts Git.
